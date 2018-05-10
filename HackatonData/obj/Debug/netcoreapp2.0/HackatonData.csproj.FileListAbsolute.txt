@@ -1,6 +1,5 @@
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\HackatonData.deps.json
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\HackatonData.dll
-c:\users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.csprojResolveAssemblyReference.cache
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.csproj.CoreCompileInputs.cache
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.AssemblyInfoInputs.cache
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.AssemblyInfo.cs
@@ -9,3 +8,5 @@ c:\users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.pdb
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\StackExchange.Redis.StrongName.dll
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\StackExchange.Redis.StrongName.xml
+C:\Users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.csprojAssemblyReference.cache
+C:\Users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.csproj.CopyComplete

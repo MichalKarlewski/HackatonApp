@@ -4761,6 +4761,19 @@
         "runtime": {
           "bin/placeholder/HackatonData.dll": {}
         }
+      },
+      "HackatonServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "HackatonData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HackatonServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HackatonServices.dll": {}
+        }
       }
     }
   },
@@ -12557,11 +12570,17 @@
       "type": "project",
       "path": "../HackatonData/HackatonData.csproj",
       "msbuildProject": "../HackatonData/HackatonData.csproj"
+    },
+    "HackatonServices/1.0.0": {
+      "type": "project",
+      "path": "../HackatonServices/HackatonServices.csproj",
+      "msbuildProject": "../HackatonServices/HackatonServices.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "HackatonData >= 1.0.0",
+      "HackatonServices >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.EntityFrameworkCore >= 2.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.3",
@@ -12601,6 +12620,9 @@
           "projectReferences": {
             "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonData\\HackatonData.csproj": {
               "projectPath": "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonData\\HackatonData.csproj"
+            },
+            "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonServices\\HackatonServices.csproj": {
+              "projectPath": "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonServices\\HackatonServices.csproj"
             }
           }
         }

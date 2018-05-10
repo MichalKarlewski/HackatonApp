@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HackatonData\HackatonData.csproj" />
+    <ProjectReference Include="..\HackatonServices\HackatonServices.csproj" />
   </ItemGroup>
 
 </Project>

@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using HackatonServices;
+
 
 namespace HackatonApp
 {
@@ -24,7 +26,10 @@ namespace HackatonApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddSingleton(Configuration);
+            services.AddScoped<IDebtorService, DebitorService>();
             services.AddDbContext<HackatonContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DataConnection")));
+       
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

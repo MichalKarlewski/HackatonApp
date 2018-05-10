@@ -20,6 +20,8 @@ namespace HackatonData.Models
         public string Status_Tekst { get; set; }
         public double Status_Saldo { get; set; }
         public string Status_RegDato { get; set; }
+        public double Status_Capital { get; set; }
+        public double Status_Fee { get; set; }
         public int Unik { get; set; }
         public DateTime Changed { get; set; }
 

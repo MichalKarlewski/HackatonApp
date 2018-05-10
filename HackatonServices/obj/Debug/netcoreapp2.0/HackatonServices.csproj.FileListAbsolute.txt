@@ -1,0 +1,12 @@
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\obj\Debug\netcoreapp2.0\HackatonServices.csprojAssemblyReference.cache
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\obj\Debug\netcoreapp2.0\HackatonServices.csproj.CoreCompileInputs.cache
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\obj\Debug\netcoreapp2.0\HackatonServices.AssemblyInfoInputs.cache
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\obj\Debug\netcoreapp2.0\HackatonServices.AssemblyInfo.cs
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\bin\Debug\netcoreapp2.0\HackatonServices.deps.json
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\bin\Debug\netcoreapp2.0\HackatonServices.dll
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\bin\Debug\netcoreapp2.0\HackatonServices.pdb
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\bin\Debug\netcoreapp2.0\HackatonData.dll
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\bin\Debug\netcoreapp2.0\HackatonData.pdb
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\obj\Debug\netcoreapp2.0\HackatonServices.csproj.CopyComplete
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\obj\Debug\netcoreapp2.0\HackatonServices.dll
+C:\Users\karlewski\source\repos\HackatonApp\HackatonServices\obj\Debug\netcoreapp2.0\HackatonServices.pdb

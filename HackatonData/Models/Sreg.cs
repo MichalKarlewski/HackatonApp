@@ -22,6 +22,8 @@ namespace HackatonData.Models
         public string Sak_AvsluttDato { get; set; }
         public string Sak_StatusTekst { get; set; }
         public double Sak_Rentegrunnlag { get; set; }
+        public double Sak_Capital { get; set; }
+        public double Sak_Fee { get; set; }
         public double Sak_BrukesIkke10 { get; set; }
         public double Sak_Sum { get; set; }
         public double Sak_SaldoHovedstol { get; set; }
