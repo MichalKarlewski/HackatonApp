@@ -10,5 +10,21 @@ c:\users\karlewski\source\repos\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.0\
 c:\users\karlewski\source\repos\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.0\HackatonData.pdb
 c:\users\karlewski\source\repos\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.dll
 c:\users\karlewski\source\repos\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.pdb
+<<<<<<< HEAD
 C:\Users\karlewski\source\repos\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.csprojAssemblyReference.cache
 C:\Users\karlewski\source\repos\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.csproj.CopyComplete
+=======
+C:\Users\Jankowska\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.0\HackatonApp.deps.json
+C:\Users\Jankowska\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.0\HackatonApp.runtimeconfig.json
+C:\Users\Jankowska\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.0\HackatonApp.runtimeconfig.dev.json
+C:\Users\Jankowska\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.0\HackatonApp.dll
+C:\Users\Jankowska\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.0\HackatonApp.pdb
+C:\Users\Jankowska\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.0\HackatonData.dll
+C:\Users\Jankowska\HackatonApp\HackatonApp\bin\Debug\netcoreapp2.0\HackatonData.pdb
+C:\Users\Jankowska\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.csprojResolveAssemblyReference.cache
+C:\Users\Jankowska\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.csproj.CoreCompileInputs.cache
+C:\Users\Jankowska\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.AssemblyInfoInputs.cache
+C:\Users\Jankowska\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.AssemblyInfo.cs
+C:\Users\Jankowska\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.dll
+C:\Users\Jankowska\HackatonApp\HackatonApp\obj\Debug\netcoreapp2.0\HackatonApp.pdb
+>>>>>>> 9fa0fb986fc6efab64ede0cd8fad704c4fe1239f
