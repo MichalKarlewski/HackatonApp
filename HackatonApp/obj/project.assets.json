@@ -12569,23 +12569,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karlewski\\.nuget\\packages\\": {},
+    "C:\\Users\\Jankowska\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonApp\\HackatonApp.csproj",
+      "projectUniqueName": "C:\\Users\\Jankowska\\HackatonApp\\HackatonApp\\HackatonApp.csproj",
       "projectName": "HackatonApp",
-      "projectPath": "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonApp\\HackatonApp.csproj",
-      "packagesPath": "C:\\Users\\karlewski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonApp\\obj\\",
+      "projectPath": "C:\\Users\\Jankowska\\HackatonApp\\HackatonApp\\HackatonApp.csproj",
+      "packagesPath": "C:\\Users\\Jankowska\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jankowska\\HackatonApp\\HackatonApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\karlewski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jankowska\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12593,14 +12596,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://sfj-proget:8090/nuget/NuGet.Development/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonData\\HackatonData.csproj": {
-              "projectPath": "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonData\\HackatonData.csproj"
+            "C:\\Users\\Jankowska\\HackatonApp\\HackatonData\\HackatonData.csproj": {
+              "projectPath": "C:\\Users\\Jankowska\\HackatonApp\\HackatonData\\HackatonData.csproj"
             }
           }
         }

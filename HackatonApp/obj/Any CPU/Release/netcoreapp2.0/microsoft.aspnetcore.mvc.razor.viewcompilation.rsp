@@ -1,0 +1,12 @@
+C:\Users\Jankowska\HackatonApp\HackatonApp
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=HackatonApp
+--content-root=C:\Users\Jankowska\HackatonApp\HackatonApp
+--file=C:\Users\Jankowska\HackatonApp\HackatonApp\Views\Home\About.cshtml
+--file=C:\Users\Jankowska\HackatonApp\HackatonApp\Views\Home\Contact.cshtml
+--file=C:\Users\Jankowska\HackatonApp\HackatonApp\Views\Home\Index.cshtml
+--file=C:\Users\Jankowska\HackatonApp\HackatonApp\Views\Shared\Error.cshtml
+--file=C:\Users\Jankowska\HackatonApp\HackatonApp\Views\Shared\_Layout.cshtml
+--file=C:\Users\Jankowska\HackatonApp\HackatonApp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Jankowska\HackatonApp\HackatonApp\Views\_ViewImports.cshtml
+--file=C:\Users\Jankowska\HackatonApp\HackatonApp\Views\_ViewStart.cshtml

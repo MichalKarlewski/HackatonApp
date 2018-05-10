@@ -3404,23 +3404,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karlewski\\.nuget\\packages\\": {},
+    "C:\\Users\\Jankowska\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonData\\HackatonData.csproj",
+      "projectUniqueName": "C:\\Users\\Jankowska\\HackatonApp\\HackatonData\\HackatonData.csproj",
       "projectName": "HackatonData",
-      "projectPath": "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonData\\HackatonData.csproj",
-      "packagesPath": "C:\\Users\\karlewski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karlewski\\source\\repos\\HackatonApp\\HackatonData\\obj\\",
+      "projectPath": "C:\\Users\\Jankowska\\HackatonApp\\HackatonData\\HackatonData.csproj",
+      "packagesPath": "C:\\Users\\Jankowska\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jankowska\\HackatonApp\\HackatonData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\karlewski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jankowska\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3428,7 +3431,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://sfj-proget:8090/nuget/NuGet.Development/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

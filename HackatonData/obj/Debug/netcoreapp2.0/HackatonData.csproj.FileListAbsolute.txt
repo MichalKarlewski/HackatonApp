@@ -9,3 +9,14 @@ c:\users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.pdb
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\StackExchange.Redis.StrongName.dll
 c:\users\karlewski\source\repos\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\StackExchange.Redis.StrongName.xml
+C:\Users\Jankowska\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\HackatonData.deps.json
+C:\Users\Jankowska\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\HackatonData.dll
+C:\Users\Jankowska\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\HackatonData.pdb
+C:\Users\Jankowska\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\StackExchange.Redis.StrongName.dll
+C:\Users\Jankowska\HackatonApp\HackatonData\bin\Debug\netcoreapp2.0\StackExchange.Redis.StrongName.xml
+C:\Users\Jankowska\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.csprojResolveAssemblyReference.cache
+C:\Users\Jankowska\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.csproj.CoreCompileInputs.cache
+C:\Users\Jankowska\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.AssemblyInfoInputs.cache
+C:\Users\Jankowska\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.AssemblyInfo.cs
+C:\Users\Jankowska\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.dll
+C:\Users\Jankowska\HackatonApp\HackatonData\obj\Debug\netcoreapp2.0\HackatonData.pdb
